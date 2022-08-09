@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1.1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+table{
+    border:2px solid rgba(0, 0, 0, 0.293);
+    margin:15px;    
+    border-collapse:collapse;
+}
+
+
+
+table th input {
+padding: 10px;
+border: 0;
+background-color: rgb(93, 90, 90);
+border-bottom: 2px solid  black;
+color: white;
+}
+
+
+
+
+
+table td button{
+    width: 100%;
+    padding: 15px;
+
+    
+}
+
+#getResult{
+    width: 100%;
+    background-color: rgb(241, 179, 65);
+}
+
+
+
+

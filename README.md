@@ -1,2 +1,2 @@
 # JavaScript-Calculator-
-A simple calculator buildid in HTML , CSS , JavaScript
+A simple calculator written in HTML , CSS , JavaScript .
